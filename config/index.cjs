@@ -29,11 +29,11 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          "type":"birthday1","name":"刘美","date":"09-01","year":"1997",
+          "type":"*生日","name":"刘美","date":"09-01","year":"1997",
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          "type":"birthday1","name":"大飞","date":"01-12","year":"1997",
+          "type":"*生日","name":"大飞","date":"01-12","year":"1997",
         },
         {
           type: '节日', name: '相识纪念日', year: '2022', date: '06-12',
