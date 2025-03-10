@@ -51,16 +51,16 @@ const USER_CONFIG = {
   ],
 
 
-  // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'QDp1IZptx6sMNiTp_YMww7Wq5y7a-hyLDY4rXtaa4HU',
+  // // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
+  // CALLBACK_TEMPLATE_ID: 'QDp1IZptx6sMNiTp_YMww7Wq5y7a-hyLDY4rXtaa4HU',
 
-  CALLBACK_USERS: [
-    {
-      name: '自己',
-      // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'obkr47LfeKSbTJg3JIRcyVB2MZuc',
-    }
-  ],
+  // CALLBACK_USERS: [
+  //   {
+  //     name: '自己',
+  //     // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
+  //     id: 'obkr47LfeKSbTJg3JIRcyVB2MZuc',
+  //   }
+  // ],
 
 }
 
